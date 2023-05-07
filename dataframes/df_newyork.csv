@@ -1,5 +1,32 @@
-name,latitude,longitude
-Gilt Groupe,40.74727,-73.9800645
-Squarespace,40.72081,-74.00087
-Banyan Branch,40.69517,-73.93230
-Netbiscuits,40.69517,-73.93230
+name,latitude,longitude,data,distance
+Gilt Groupe,40.74727,-73.9800645,Design company,
+Squarespace,40.72081,-74.00087,Design company,
+Banyan Branch,40.69517,-73.9323,Design company,
+Netbiscuits,40.69517,-73.9323,Design company,
+LaGuardia Airport (LGA),40.774527,-73.871941,Airport,10447.0
+Newark Liberty International Airport (EWR),40.690377,-74.177145,Airport,17068.0
+John F. Kennedy International Airport (JFK),40.643864,-73.782268,Airport,19901.0
+Metrokids Preschool,40.748664,-73.970435,Preschool,1563.0
+Academy of St Joseph,40.732732,-74.000991,Preschool,1571.0
+FIAF Preschool,40.763926,-73.970723,Preschool,2930.0
+Xavier High School,40.738023,-73.994868,Primary and Secondary School,841.0
+United Nations International School,40.736339,-73.973319,Primary and Secondary School,1054.0
+NY SPORTS 4 KIDS William T. Harris School,40.744389,-74.00084,Primary and Secondary School,1401.0
+MTA Subway - 23rd St,40.740187,-73.986656,Train Station,122.0
+MTA Subway - 23rd St,40.743148,-73.992887,Train Station,755.0
+33rd Street Station,40.750333,-73.990549,Train Station,1010.0
+Hidden Lane Bar,40.734657,-73.987662,Night Clubs,623.0
+Somewhere Nowhere NYC,40.744283,-73.9928,Night Clubs,812.0
+Nowhere,40.731787,-73.9841,Night Clubs,905.0
+24th St Vegan Cafe,40.738894,-73.980623,Vegan Restaurant,356.0
+Sweetgreen,40.738122,-73.991204,Vegan Restaurant,559.0
+Planta Queen,40.744459,-73.988309,Vegan Restaurant,573.0
+Basketball Gym At The Dylan,40.746752,-73.985298,Basketball Stadium,749.0
+Basketball Court,40.733342,-73.98045,Basketball Stadium,950.0
+Playground 9- Basketball Court/Sprinklers,40.73212,-73.979747,Basketball Stadium,955.0
+Starbucks,40.740519,-73.984355,Starbucks,91.0
+Starbucks,40.740187,-73.986656,Starbucks,165.0
+Starbucks,40.738035,-73.98845,Starbucks,356.0
+Reme's Oggi Pets,40.75687,-73.964245,Dog Grooming,2569.0
+Ruby & Jack's Doggy Shack,40.761426,-73.963373,Dog Grooming,2995.0
+The Salty Paw,40.707471,-74.001652,Dog Grooming,3842.0
