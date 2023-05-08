@@ -130,13 +130,16 @@ def distance_locations_plot(df):
 
     plt.subplots_adjust(left=0.1, right=0.9, top=0.9, bottom=0.2)
 
+     # Save the plot as an image and display the plot
+    plt.savefig('figures/distance_locations_plot.png')
+    os.system("start figures/distance_locations_plot.png")
     plt.show()
 
 
 def closest_distance_points(df):
     for column in df.columns:
         sorted_values = df[column].sort_values(ascending=False)
-        df[column] = df[column].apply(lambda x: 2 if x == sorted_values.iloc[0] else 1 if x == sorted_values.iloc[1] else 0)
+        df[column] = df[column].apply(lambda x: 2 if x == sorted_values.iloc[2] else 1 if x == sorted_values.iloc[1] else 0)
 
     return df
 
@@ -154,10 +157,14 @@ def cities_grades_plot(df):
         ax.text(i, val -1 , str(val), ha= "center",color='black', size=14)
 
     ax.set_title("Best requirements count per location", fontsize=14, fontweight='bold')
-    ax.set_ylabel('Requirements (8 in total)', fontsize=12)
+    ax.set_ylabel('Requirements (9 in total)', fontsize=12)
 
     plt.subplots_adjust(left=0.1, right=0.9, top=0.9, bottom=0.2)
 
+      # Save the plot as an image and display the plot
+    plt.savefig('figures/cities_grades_plot.png')
+    os.system("start figures/cities_grades_plot.png")
     plt.show()
+
 
 

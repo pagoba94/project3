@@ -8,6 +8,7 @@ from getpass import getpass
 from dotenv import load_dotenv
 import matplotlib.pyplot as plt
 import numpy as np
+import os
 
 def mongo_access(name, collection):
     client = MongoClient("localhost:27017")
@@ -76,8 +77,11 @@ def designers_cities_plot(cities,df):
     #Adjust the layout
     plt.tight_layout()
 
-    #Display the plot
+    # Save the plot as an image and display the plot
+    plt.savefig('figures/designers_cities_plot.png')
+    os.system("start figures/designers_cities_plot.png")
     plt.show()
+
 
 
 def mongo_games_query(c):
@@ -186,7 +190,9 @@ def game_cities_plot(game_top_cities):
     plt.title('Top count of Game Companies Offices by city and Raised Amount')
     plt.tight_layout()
 
-    # Display and save the plot
+     # Save the plot as an image and display the plot
+    plt.savefig('figures/game_cities_plot.png')
+    os.system("start figures/game_cities_plot.png")
     plt.show()
 
 

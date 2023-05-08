@@ -37,6 +37,7 @@ def creating_map(df, lat, lon, zoom=10):
     icon = Icon (color = "red", icon_color = "white", icon = "star", prefix = "fa")
     city_location = Marker(location = [lat, lon], tooltip = "Location", icon = icon)
     city_location.add_to(city_map)
+    city_map.save(f"maps/map{lat}.html")
 
     return city_map
 
