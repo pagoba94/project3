@@ -1,56 +1,15 @@
-name,latitude,longitude,data,distance
-Digg,37.764726,-122.394523,Design company,
-Wix,37.75672,-122.40507,Design company,
-99designs,37.7955307,-122.4005983,Design company,
-Minted,37.797435,-122.403175,Design company,
-Netbiscuits,37.7550372,-122.4264417,Design company,
-Oakland International Airport (OAK),37.712395,-122.213323,Airport,19161.0
-San Francisco International Airport (SFO),37.616581,-122.386689,Airport,20067.0
-Imane's Wonderschool,37.78074,-122.407515,Preschool,1834.0
-Presidio Knolls School,37.773203,-122.413809,Preschool,2783.0
-Alta Plaza Preschool,37.790221,-122.437322,Preschool,3138.0
-Jean Parker Elementary School,37.797687,-122.411024,Primary and Secondary School,693.0
-New School San Francisco,37.800775,-122.415078,Primary and Secondary School,1125.0
-Galileo Academy of Science and Technology,37.803767,-122.424217,Primary and Secondary School,2009.0
-Montgomery St BART Station,37.788862,-122.402116,Train Station,888.0
-Union Square/Market Street MUNI Metro Station,37.787906,-122.406934,Train Station,1074.0
-Powell MUNI Metro Station,37.784458,-122.407591,Train Station,1447.0
-Monroe,37.797885,-122.405014,Night Clubs,210.0
-The Saloon,37.798551,-122.406989,Night Clubs,390.0
-Pier 23 Cafe,37.803296,-122.400887,Night Clubs,746.0
-Enjoy Vegetarian Restaurant,37.795836,-122.405323,Vegan Restaurant,203.0
-The Lucky Creation Vegetarian Restaurant,37.795217,-122.407437,Vegan Restaurant,411.0
-The Plant Cafe Organic,37.791658,-122.402281,Vegan Restaurant,559.0
-Alice Marble Basketball Court,37.801449,-122.420352,Basketball Stadium,1580.0
-Soma Rec Center,37.778838,-122.406328,Basketball Stadium,2006.0
-Berry Basketball Courts,37.77208,-122.397686,Basketball Stadium,2814.0
-Starbucks,37.794601,-122.402669,Starbucks,257.0
-Starbucks,37.795166,-122.400408,Starbucks,309.0
-Starbucks,37.797015,-122.398007,Starbucks,453.0
-Bow Wow Meow,37.796647,-122.421645,Dog Grooming,1639.0
-Bernie's Grooming,37.766882,-122.412719,Dog Grooming,3467.0
-Oakland International Airport (OAK),37.712395,-122.213323,Airport,19161.0
-San Francisco International Airport (SFO),37.616581,-122.386689,Airport,20067.0
-Imane's Wonderschool,37.78074,-122.407515,Preschool,1834.0
-Presidio Knolls School,37.773203,-122.413809,Preschool,2783.0
-Alta Plaza Preschool,37.790221,-122.437322,Preschool,3138.0
-Jean Parker Elementary School,37.797687,-122.411024,Primary and Secondary School,693.0
-New School San Francisco,37.800775,-122.415078,Primary and Secondary School,1125.0
-Galileo Academy of Science and Technology,37.803767,-122.424217,Primary and Secondary School,2009.0
-Montgomery St BART Station,37.788862,-122.402116,Train Station,888.0
-Union Square/Market Street MUNI Metro Station,37.787906,-122.406934,Train Station,1074.0
-Powell MUNI Metro Station,37.784458,-122.407591,Train Station,1447.0
-Monroe,37.797885,-122.405014,Night Clubs,210.0
-The Saloon,37.798551,-122.406989,Night Clubs,390.0
-Pier 23 Cafe,37.803296,-122.400887,Night Clubs,746.0
-Enjoy Vegetarian Restaurant,37.795836,-122.405323,Vegan Restaurant,203.0
-The Lucky Creation Vegetarian Restaurant,37.795217,-122.407437,Vegan Restaurant,411.0
-The Plant Cafe Organic,37.791658,-122.402281,Vegan Restaurant,559.0
-Alice Marble Basketball Court,37.801449,-122.420352,Basketball Stadium,1580.0
-Soma Rec Center,37.778838,-122.406328,Basketball Stadium,2006.0
-Berry Basketball Courts,37.77208,-122.397686,Basketball Stadium,2814.0
-Starbucks,37.794601,-122.402669,Starbucks,257.0
-Starbucks,37.795166,-122.400408,Starbucks,309.0
-Starbucks,37.797015,-122.398007,Starbucks,453.0
-Bow Wow Meow,37.796647,-122.421645,Dog Grooming,1639.0
-Bernie's Grooming,37.766882,-122.412719,Dog Grooming,3467.0
+name,latitude,longitude,data,distance,city
+Digg,37.764726,-122.394523,Design company,,San Francisco
+Wix,37.75672,-122.40507,Design company,,San Francisco
+99designs,37.7955307,-122.4005983,Design company,,San Francisco
+Minted,37.797435,-122.403175,Design company,,San Francisco
+Netbiscuits,37.7550372,-122.4264417,Design company,,San Francisco
+Oakland International Airport (OAK),37.712395,-122.213323,Airport,19161.0,San Francisco
+Imane's Wonderschool,37.78074,-122.407515,Preschool,1834.0,San Francisco
+Jean Parker Elementary School,37.797687,-122.411024,Primary and Secondary School,693.0,San Francisco
+Montgomery St BART Station,37.788862,-122.402116,Train Station,888.0,San Francisco
+Monroe,37.797885,-122.405014,Night Clubs,210.0,San Francisco
+Enjoy Vegetarian Restaurant,37.795836,-122.405323,Vegan Restaurant,203.0,San Francisco
+Alice Marble Basketball Court,37.801449,-122.420352,Basketball Stadium,1580.0,San Francisco
+Starbucks,37.794601,-122.402669,Starbucks,257.0,San Francisco
+Bow Wow Meow,37.796647,-122.421645,Dog Grooming,1639.0,San Francisco

@@ -1,49 +1,12 @@
-name,latitude,longitude,data,distance
-Netbiscuits,51.513248,-0.1547377,Design company,
-Moonfruit,51.51913,-0.11016,Design company,
-London City Airport (LCY),51.504029,0.049552,Airport,14300.0
-London Heathrow Airport (LHR),51.470584,-0.454958,Airport,21466.0
-Home Star Childcare,51.513242,-0.141109,Preschool,1075.0
-Dyason Preschool,51.489346,-0.088069,Preschool,5446.0
-Turning Earth Ceramics,51.534412,-0.075928,Preschool,6069.0
-Netley Primary School,51.527677,-0.140121,Primary and Secondary School,1971.0
-Eaton House School,51.494096,-0.154935,Primary and Secondary School,2153.0
-Westminster Academy,51.521012,-0.192724,Primary and Secondary School,2583.0
-Marble Arch,51.513632,-0.158366,Train Station,114.0
-Edgware Road London Underground Station,51.520204,-0.167106,Train Station,1039.0
-Oxford Circus London Underground Station,51.515163,-0.141682,Train Station,1041.0
-Annabel's,51.509132,-0.146903,Night Clubs,819.0
-Tape London,51.51433,-0.144478,Night Clubs,854.0
-The Phoenix,51.516043,-0.143712,Night Clubs,958.0
-Plants by De,51.513315,-0.15004,Vegan Restaurant,449.0
-Neat Burger,51.514627,-0.14274,Vegan Restaurant,978.0
-Kin,51.519444,-0.140363,Vegan Restaurant,1312.0
-Tabard Gardens - Basketball Court,51.514811,-0.174869,Basketball Stadium,1263.0
-Lisson Grove - Basketball Court,51.525673,-0.168182,Basketball Stadium,1586.0
-Netball Courts,51.536528,-0.13703,Basketball Stadium,2891.0
-Starbucks,51.514326,-0.152723,Starbucks,355.0
-Starbucks,51.514765,-0.150258,Starbucks,461.0
-Starbucks,51.51388,-0.149514,Starbucks,510.0
-London City Airport (LCY),51.504029,0.049552,Airport,14166.0
-London Heathrow Airport (LHR),51.470584,-0.454958,Airport,21592.0
-Home Star Childcare,51.513242,-0.141109,Preschool,942.0
-Dyason Preschool,51.489346,-0.088069,Preschool,5322.0
-Turning Earth Ceramics,51.534412,-0.075928,Preschool,5953.0
-Netley Primary School,51.527677,-0.140121,Primary and Secondary School,1910.0
-Eaton House School,51.494096,-0.154935,Primary and Secondary School,2132.0
-Westminster Academy,51.521012,-0.192724,Primary and Secondary School,2714.0
-Marble Arch,51.513632,-0.158366,Train Station,248.0
-Oxford Circus London Underground Station,51.515163,-0.141682,Train Station,915.0
-Edgware Road London Underground Station,51.520204,-0.167106,Train Station,1147.0
-Annabel's,51.509132,-0.146903,Night Clubs,701.0
-Tape London,51.51433,-0.144478,Night Clubs,724.0
-The Phoenix,51.516043,-0.143712,Night Clubs,840.0
-Plants by De,51.513315,-0.15004,Vegan Restaurant,316.0
-Neat Burger,51.514627,-0.14274,Vegan Restaurant,849.0
-Kin,51.519444,-0.140363,Vegan Restaurant,1208.0
-Tabard Gardens - Basketball Court,51.514811,-0.174869,Basketball Stadium,1397.0
-Lisson Grove - Basketball Court,51.525673,-0.168182,Basketball Stadium,1672.0
-Argyle Square Public Basketball Court,51.529063,-0.122972,Basketball Stadium,2821.0
-Starbucks,51.514326,-0.152723,Starbucks,241.0
-Starbucks,51.514765,-0.150258,Starbucks,344.0
-Starbucks,51.51388,-0.149514,Starbucks,380.0
+name,latitude,longitude,data,distance,city
+Netbiscuits,51.513248,-0.1547377,Design company,,London
+Moonfruit,51.51913,-0.11016,Design company,,London
+London City Airport (LCY),51.504029,0.049552,Airport,14166.0,London
+Home Star Childcare,51.513242,-0.141109,Preschool,942.0,London
+Netley Primary School,51.527677,-0.140121,Primary and Secondary School,1910.0,London
+Marble Arch,51.513632,-0.158366,Train Station,248.0,London
+Annabel's,51.509132,-0.146903,Night Clubs,701.0,London
+Plants by De,51.513315,-0.15004,Vegan Restaurant,316.0,London
+Tabard Gardens - Basketball Court,51.514811,-0.174869,Basketball Stadium,1397.0,London
+Starbucks,51.514326,-0.152723,Starbucks,241.0,London
+Jessica's Dog Grooming,51.5141844,-0.1863357,Dog Grooming,1500.0,London
