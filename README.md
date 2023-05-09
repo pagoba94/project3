@@ -47,7 +47,7 @@ We created two plots to check which location was the best, based on the nearests
 
 As you can see NEW YORK location has the closests: Train Station, Starbucks, Basketball stadium and Airport (we did not show airport on the plot, as the three of them were outliers for the bar plots). SAN FRANCISCO location had the closests: Primary and Secondary School, Night clubs and Vegan restaurant. And LONDON has the closests Preschool and Dog Grooming.
 
-Finally, we created a "points" method, the location with the closest venue got 2 points, the second one got 1 point and the third one got 0 points. The location with the highest number of points was the one that followed more preferences and requirements, and it was NEW YORK!
+Finally, we created a "points" method, the location with the closest venue got 2 points, the second one got 1 point and the third one got 0 points. The location with the highest number of points was the one that followed more preferences and requirements, and it was NEW YORK, at the following location: '40.7398872','-73.9850319'
 
 ![image (1)](https://user-images.githubusercontent.com/127286755/236949364-684a9bb5-26a9-4bdc-b51f-c4eadfd7478f.png)
 
