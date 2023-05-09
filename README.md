@@ -1,4 +1,4 @@
-# Project 2 - MONGOGAMING COMPANY: Where should we locate our new office? 
+# Project 3 - MONGOGAMING COMPANY: Where should we locate our new office? 
 
 ![image](https://user-images.githubusercontent.com/127286755/236945195-71be2e84-1262-47f8-928b-66ad27c0d19d.png)
 
