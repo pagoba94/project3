@@ -18,7 +18,7 @@ All the employees were asked to show their preferences on where to place the new
 - The office dog—"Dobby" needs a hairdresser every month, we need one not too far away.
 
 ## Methods
-To start the analysis we used a Mongo's database with more than 18k start ups data. Using **mongo queries and regex**, we looked for the count of design companies located in each city, so that we can locate our company in one of those cities. We also looked for the best gaming companies location, we want our office to be as close to them to follow their steps. We created two plots to see the results:
+To start the analysis we used a Mongo's database with more than 18k start ups data. Using **mongo queries and regex**, we looked for the count of design companies located in each city, so that we can locate our company in one of those cities. We also looked for the best gaming companies location, we want our office to be as close to them to follow their steps. We grouped the top 20 game companies that raised more than $200M and we created two plots to see the results:
 ![designers_cities_plot](https://user-images.githubusercontent.com/127286755/236945428-c8048b2d-432d-443b-bfb2-ac4c0de3ebec.png)
 
 ![game_cities_plot](https://user-images.githubusercontent.com/127286755/236945479-c5c7c2dd-6d59-452b-82c7-6714d2e9b2f2.png)
@@ -47,7 +47,7 @@ We created two plots to check which location was the best, based on the nearests
 
 As you can see NEW YORK location has the closests: Train Station, Starbucks, Basketball stadium and Airport (we did not show airport on the plot, as the three of them were outliers for the bar plots). SAN FRANCISCO location had the closests: Primary and Secondary School, Night clubs and Vegan restaurant. And LONDON has the closests Preschool and Dog Grooming.
 
-Finally, we checked
+Finally, we created a "points" method, the location with the closest venue got 2 points, the second one got 1 point and the third one got 0 points. The location with the highest number of points was the one that followed more preferences and requirements, and it was NEW YORK!
 
 ![image (1)](https://user-images.githubusercontent.com/127286755/236949364-684a9bb5-26a9-4bdc-b51f-c4eadfd7478f.png)
 
@@ -55,13 +55,13 @@ Finally, we checked
 
 ## Files
 
-- data: folder with four csv dataframes.
-- figures: folder with four html files and four png files. Those are the charts that we created.
+- dataframes: folder with four csv dataframes.
+- maps: folder with three thtml files with the folium maps generates.
+- figures: folder with four png files. Those are the charts that we created.
 - jupyter notebooks: two jupyter notebook files with all the previous researching, cleaning and transforming.
 - src: three pyhton files with downloading, cleaning and vizualization functions.
 - README.md
-- main.py: The main file, you need to execute the file using *pyhton main.py* and see the results of the analysis.
-
+- main.jpyn: The main file, you need to execute the file with jupyter notebook and see the results of the analysis.
 
 ## Technologies
 
@@ -69,8 +69,8 @@ Jupyter notebook
 Mongo's database
 Folium
 Python
-html
-os
+Html
+Os
 
 ### Libraries used:
 
@@ -90,5 +90,6 @@ import matplotlib.pyplot as plt
 
 Git clone and you can execute the code on your terminal using: pyhton main.py
 
-## References: 
+## Next steps:
 
+- Web scrape real state sites to get the best prices and choose a neighbourhood, a block or an adress.
