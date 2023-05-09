@@ -1,10 +1,10 @@
-# Project 2 - MONGOGAME COMPANY: Where should we locate our new office? 
+# Project 2 - MONGOGAMING COMPANY: Where should we locate our new office? 
 
 ![image](https://user-images.githubusercontent.com/127286755/236945195-71be2e84-1262-47f8-928b-66ad27c0d19d.png)
 
 ## Introduction
 
-Mongo Game is a new company in the gaming industry, they want to open their first office and they are looking for the perfect place. 
+Mongo Gaming is our new company in the gaming industry, we want to open their first office and we are looking for the perfect place. 
 All the employees were asked to show their preferences on where to place the new office, our goal is to place the new company offices in the best place for the company to grow.
 
 - Designers like to go to design talks and share knowledge. There must be some nearby companies that also do design.
@@ -18,7 +18,7 @@ All the employees were asked to show their preferences on where to place the new
 - The office dog—"Dobby" needs a hairdresser every month, we need one not too far away.
 
 ## Methods
-To start the analysis we used a Mongo's database with more than 18k start ups data. Using **mongo queries and regex**, we looked for the count of design companies located in each city, so that we can locate our company in one of those cities. We also looked for the best gaming companies location, we want our office to be as close to them to follow their steps. We grouped the top 20 game companies that raised more than $200M and we created two plots to see the results:
+To start the analysis we used a Mongo's database with more than 18k start ups data. Using **mongo queries and regex**, we looked for the count of design companies located in each city, so that we can locate our company in one of those cities. We also looked for the best gaming companies location, we want our office to be as close to them to follow their steps. We grouped by city the top 20 game companies that raised more than $200M and we created two plots to see the results:
 ![designers_cities_plot](https://user-images.githubusercontent.com/127286755/236945428-c8048b2d-432d-443b-bfb2-ac4c0de3ebec.png)
 
 ![game_cities_plot](https://user-images.githubusercontent.com/127286755/236945479-c5c7c2dd-6d59-452b-82c7-6714d2e9b2f2.png)
