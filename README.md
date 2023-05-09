@@ -27,15 +27,15 @@ As you can see, **San Francisco, New York and London** are the cities with the m
 So, we started our analysis based on three locations, each located in one of the selected three cities. We used the **Foursquare API** and folium to create new data information and added it to a map of each city.
 We looked for the closest Airport, Train Station, Preschool, Primary and Secondary School, Night Clubs, Vegan Restaurant, Basketball Stadium, Starbucks and Dog Grooming. And we created the maps:
 
-### - San Francisco location: 
+### - San Francisco location: 37.7968917, -122.4032027
 Near Minted (design company) that has raised $52.7M, located at 747 Front Street, close to the Embarcadero.
 ![image](https://user-images.githubusercontent.com/127286755/236947797-aaea6732-807d-43ab-96f9-03e076093ca4.png)
 
-### - New York location: 
+### - New York location: 40.7398872, -73.9850319
 Near Gilt Groupe (design company) that has raised $236M raised, located at 2 Park Ave Fl 4, close to the Empire State
 ![image](https://user-images.githubusercontent.com/127286755/236948083-6c2b45b6-0025-4f72-99a2-518773d1ebc2.png)
 
-### - London location:
+### - London location: 51.5134019, -0.1566624
 Near Netbiscuits (design company) that has raised $27M, located at 25 North Row, close to the Hyde Park
 ![image](https://user-images.githubusercontent.com/127286755/236948043-d320c8b3-9e5b-4128-98fb-62552a7d60ad.png)
 
